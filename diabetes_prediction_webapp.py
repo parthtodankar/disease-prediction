@@ -24,7 +24,7 @@ def diabetes_prediction(input_data):
 def main():
     
     # giving title
-    st.title('Diabetes Prediction Web App')
+    st.title('Diabetes Prediction')
     
     #getting the input data from the user
     
